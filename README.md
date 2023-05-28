@@ -2,6 +2,9 @@
 
 Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
 
+<<<<<<< HEAD
 Video: https://www.youtube.com/watch?v=K8YELRmUb5o
 
+=======
+>>>>>>> 6fc38fc (minute fix)
 A practice follow step by step with EdRoh's tutorial
