@@ -48,7 +48,7 @@ app.post("/auth/register", upload.single("picture"), register);
 app.post("/posts", verifyToken, upload.single("picture"), createPost);
 
 /* ROUTES */
-app.use("/auth", authRoutes);
+app.use("/", authRoutes);
 app.use("/users", userRoutes);
 app.use("/posts", postRoutes);
 
